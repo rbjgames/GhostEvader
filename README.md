@@ -18,4 +18,6 @@ Player starts with 3 lives. Any contact with a ghost kills the player and the ro
 
 ## Balancing
 
-After a set number of points the level becomes faster.
+We'll leave this up to the person who is working on this tutorial.
+
+Example : After a set number of points the level becomes faster.
